@@ -12,9 +12,6 @@
 <a href="https://linkedin.com/in/ferlando-beqaj-13a158135" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/ferlandobeqaj" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
 
 <br/>
 <br/>
@@ -55,15 +52,11 @@
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Ferlandoo&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false" align="center" style="width: 100%" /></a>
 
-</td><td valign="top" width="33%">
-
-<a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ferlandoo&theme=midnight-purple&hide_border=true" align="center" style="width: 100%" /></a>
-
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferlandoo&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact" align="center" style="width: 100%" /></a>
 
