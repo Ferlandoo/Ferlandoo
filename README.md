@@ -26,7 +26,7 @@
 - ❓ Feel free to ask me about anything.  
   
 
-- ⚡ Fun fact: I keep night shift swithed on at all times.  
+- ⚡ Fun fact: I keep night shift switched on at all times.  
   
 
 <br/>  
