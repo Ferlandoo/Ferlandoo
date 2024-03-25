@@ -20,7 +20,7 @@
 - 🔭 I’m currently studying on Holberton.  
   
 
-- 🌱 I’m currently learning C programming language.  
+- 🌱 I’m currently learning Python programming language.  
   
 
 - ❓ Feel free to ask me about anything.  
