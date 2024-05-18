@@ -20,14 +20,8 @@
 - 🔭 I’m currently studying on Holberton.  
   
 
-- 🌱 I’m currently learning Python programming language.  
-  
+- 🌱 I’m currently learning JavaScript programming language.  
 
-- ❓ Feel free to ask me about anything.  
-  
-
-- ⚡ Fun fact: I keep night shift switched on at all times.  
-  
 
 <br/>  
 
