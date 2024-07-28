@@ -13,23 +13,16 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
-<br/>
-<br/>
-
-
-- 🔭 I’m currently studying on Holberton.  
-  
-
-- 🌱 I’m currently learning JavaScript programming language.  
-
 
 <br/>  
 
 
 ## Languages & Tools  
 <div align="left">  
-<a href="#"><img style="margin: 10px" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" height="38" /></a>  
+<a href="#"><img style="margin: 10px" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="ReactJs" height="38" /></a>  
+<a href="#"><img style="margin: 10px" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="VueJs" height="38" /></a>  
 <a href="#"><img style="margin: 10px" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" height="38" /></a>  
+<a href="#"><img style="margin: 10px" src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss" alt="TailwindCSS" height="38" /></a>  
 <a href="#"><img style="margin: 10px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="38" /></a>  
 <a href="#"><img style="margin: 10px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="38" /></a>  
 <a href="#"><img style="margin: 10px" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" height="38" /></a>  
@@ -37,7 +30,7 @@
 <a href="#"><img style="margin: 10px" src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="38" /></a>  
 <a href="#"><img style="margin: 10px" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" height="38" /></a>  
 <a href="#"><img style="margin: 10px" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" height="38" /></a>  
-<a href="#"><img style="margin: 10px" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="Sass" height="38" /></a>  
+<a href="#"><img style="margin: 10px" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" alt="ExpressJs" height="38" /></a>  
 <a href="#"><img style="margin: 10px" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="CloudFlare" height="38" /></a>  
 <a href="#"><img style="margin: 10px" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress" height="38" /></a>  
 </div>  
